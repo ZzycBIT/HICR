@@ -47,11 +47,3 @@ Stay tuned! 🚧
 
 ## 📑 Citation
 If you find this work useful, please cite our paper:
-
-```bibtex
-@article{your2025hicr,
-  title   = {HICR: Hierarchical Interaction with Cross-coordinate Representation for Multi-Agent Trajectory Prediction},
-  author  = {Your Name and Others},
-  journal = {TBD},
-  year    = {2025}
-}
